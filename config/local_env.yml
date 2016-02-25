@@ -1,0 +1,4 @@
+server_base_url: 'http://localhost:3000'
+oauth_token: '<CLIENT ID>'
+oauth_secret: '<SECRET>'
+oauth_redirect_uri: 'http%3A%2F%2Flocalhost%3A3001%2Foauth%2Fcallback'
